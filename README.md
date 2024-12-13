@@ -14,7 +14,7 @@ Travelogue is a college project designed to provide users with a platform to doc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arunjangir8/travelogue_.git
+   git clone https://github.com/Arunjangir8/Travelogue_.git
 
 <img width="1512" alt="Screenshot 2024-12-13 at 11 57 36 AM" src="https://github.com/user-attachments/assets/dfcc141f-0b7d-4785-b03c-98aebb73ef75" />
 <br>

@@ -40,6 +40,15 @@
     font-size: 28px;
     color: #E6D8D6;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+.pagelink a:hover {
+    /* background-color: #EEEEEE; */
+    color: #5C5470;
 }
 
 
@@ -254,6 +263,7 @@ footer button{
     background-color: transparent;
     color: #E6D8D6;
     font-weight: bold;
+    transition: all 0.3s;
 }
 
 footer button:hover{
@@ -348,7 +358,7 @@ footer button:hover{
         display: flex;
         flex-direction: column;
         align-items: center;
-/*         border: 1.5px solid #E6D8D633; */
+        /* border: 1.5px solid #E6D8D633; */
 
     }
 
